@@ -2,13 +2,12 @@
 
 Based on the data and tables below, there are some trends that we can analyze:
 
-    1. Male players represent the vast majority of the percentage of in-game content purchases. (80.88% of in-game content purchases)
-    2. The amount of dollar spent for in-game content varies depending on the age group of the purchases. Age 20-23 represents the highest      amount of dollars spent compaired to other age groups. Age 24-28 represents the second highest amount of dollars spent compaired to        other age groups. Age 38-41 represents very low amount of dollars spend compaired to other age groups, however, the average amount of      dollars spent per player is the highest in comparison with the others. 
+•	Male players represent the vast majority of the percentage of in-game content purchases. (80.88% of in-game content purchases)
+•	The amount of dollar spent for in-game content varies depending on the age group of the purchases. Players in age group 20-23 has the most purchasing power, since it represents the highest amount of dollars spent compared to other age groups.  Age 38-41 represents very low amount of dollars spend compared to other age groups, however, the average amount of dollars spent per player is the highest in comparison with the others. It shows that although older people purchase less then younger players, they tend to buy more expensive items.
+•	The most popular item is the “Arcane Gem”, which means this should be the most useful item in creating the better gaming experience. The most profitable item is “Retribution Ax”, which sounds like a weapon to enhance the power of the character. It might be the most powerful weapon that players will want to have for their characters. 
 
-
-
-
-
+    
+    
 
 ```python
 import pandas as pd
