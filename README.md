@@ -1,5 +1,12 @@
 # pandassssssss
 
+Based on the data and tables below, there are some trends that we can analyze:
+
+    1. Male players represent the vast majority of the percentage of in-game content purchases. (80.88% of in-game content purchases)
+    2. The amount of dollar spent for in-game content varies depending on the age group of the purchases. Age 20-23 represents the highest      amount of dollars spent compaired to other age groups. Age 24-28 represents the second highest amount of dollars spent compaired to        other age groups. Age 38-41 represents very low amount of dollars spend compaired to other age groups, however, the average amount of      dollars spent per player is the highest in comparison with the others. 
+
+
+
 
 
 
